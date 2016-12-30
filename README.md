@@ -1,4 +1,4 @@
 # Make-it-Snow
 A snowy background with a snow storm coming up!
 
-![App Image](https://cloud.githubusercontent.com/assets/22102173/21571780/794124c2-ceca-11e6-9072-bca3b589ce34.gif "App Image")
+![App Image](https://camo.githubusercontent.com/7d56cb91b5514862a1198962399e3473c4e5ddef/68747470733a2f2f636c2e6c792f3035313631703342343731392f53637265656e2532305265636f7264696e67253230323031362d31322d3330253230617425323030372e3430253230706d2e676966 "App Image")
